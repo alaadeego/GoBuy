@@ -5,3 +5,6 @@ https://www.raywenderlich.com/7711166-data-binding-in-android-getting-started#to
 
 Where to Go From Here?
 https://www.raywenderlich.com/636803-mvvm-and-databinding-android-design-patterns
+#![](images/Screen-Recording-2020-08-20-at-6.16.20-PM.gif 400x400)
+
+<img src ="images/Screen-Recording-2020-08-20-at-6.16.20-PM.gif" width="400" height="700">
